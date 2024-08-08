@@ -7,6 +7,7 @@ Geoscientist / Aspiring Computer Scientist
 I'm a passionate developer with a strong foundation in programming languages, frameworks, and analytics. Currently doing a Master's student in Computer Science at University College Dublin. With a diverse background in geoscience and computer science, I bring strong analytical skills and technical experience. My journey from geoscience to tech has equipped me with a unique blend of skills, allowing me to tackle complex problems and develop innovative solutions.
 
 *   🌍  I'm based in Dublin, Ireland
+*   🖥️ See my portfolio at  https://github.com/smartens-bit
 *   ✉️  You can contact me at [simon.martensson9@gmail.com](mailto:simon.martensson9@gmail.com)
 
 ### Skills 
