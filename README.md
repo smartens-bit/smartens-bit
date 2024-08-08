@@ -32,6 +32,8 @@ I'm a passionate developer with a strong foundation in programming languages, fr
 
 ------------------------------------------
 
-Project Summaries
+### Project Summaries
+
+------------------------------------------
 
 CarbonAdventure: An exhilarating 2D platformer game focused on the importance of minimizing your carbon footprint while traveling. Embark on a thrilling adventure through colorful landscapes, challenging obstacles, and interactive elements while learning about sustainability and environmental awareness. (Video is sped up for demo purposes. I would strongly recommend muting!)
