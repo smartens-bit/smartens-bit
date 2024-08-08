@@ -31,3 +31,7 @@ I'm a passionate developer with a strong foundation in programming languages, fr
 <a href="https://github.com/smartens-bit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartens-bit&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ------------------------------------------
+
+Project Summaries
+
+CarbonAdventure: An exhilarating 2D platformer game focused on the importance of minimizing your carbon footprint while traveling. Embark on a thrilling adventure through colorful landscapes, challenging obstacles, and interactive elements while learning about sustainability and environmental awareness. (Video is sped up for demo purposes. I would strongly recommend muting!)
