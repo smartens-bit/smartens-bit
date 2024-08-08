@@ -9,6 +9,7 @@ I'm a passionate developer with a strong foundation in programming languages, fr
 *   🌍  I'm based in Dublin, Ireland
 *   🖥️  See my portfolio at  https://github.com/smartens-bit
 *   ✉️  You can contact me at [simon.martensson9@gmail.com](mailto:simon.martensson9@gmail.com)
+------------------------------------------
 
 ### Skills 
 
