@@ -33,9 +33,9 @@ CarbonAdventure: An exhilarating 2D platformer game focused on the importance of
 
 https://github.com/user-attachments/assets/147a898b-5f46-42fa-9fab-7a6f15904c29
 
-### Bike Rental App
+### Dublin Bikes Rental App
 
-- Bike rental is a web application to display occupance and weather information for Dublin Bikes stations across Dublin City.
+- Dublin Bikes is a web application to display occupance and weather information for rental Bikes stations across Dublin City.
 - The project scraped data from JCDecauxAPI and OpenWeather API to get data bikes data for 3 months.
 - The Scraper ran in an AWS EC2 instance and stored data in an AWS RDS MySQL
 - Random Forest ML model was developed with data to predict future occupancy based on historic weather and usage data, deployed on a Flask instance.
