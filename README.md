@@ -63,6 +63,7 @@ npm run
 ![image](https://github.com/user-attachments/assets/ba37c220-86f1-483a-9c6a-53fa4f9efa15)
 ![image](https://github.com/user-attachments/assets/ec282940-70c2-49a6-ba2f-f7c76f930520)
 
+---------------------
 ### CarbonAdventure
 CarbonAdventure: An exhilarating 2D platformer game focused on the importance of minimizing your carbon footprint while traveling. Embark on a thrilling adventure through colorful landscapes, challenging obstacles, and interactive elements while learning about sustainability and environmental awareness. (Video is sped up for demo purposes. I would strongly recommend muting!)
 
