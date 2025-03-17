@@ -27,12 +27,6 @@ I'm a passionate developer with a strong foundation in programming languages, fr
 ### Project Summaries
 
 ---------------------
-
-### CarbonAdventure
-CarbonAdventure: An exhilarating 2D platformer game focused on the importance of minimizing your carbon footprint while traveling. Embark on a thrilling adventure through colorful landscapes, challenging obstacles, and interactive elements while learning about sustainability and environmental awareness. (Video is sped up for demo purposes. I would strongly recommend muting!)
-
-https://github.com/user-attachments/assets/147a898b-5f46-42fa-9fab-7a6f15904c29
-
 ### NASA Space Apps Challenge 2024 
 ## Landsat Reflectance Data: On the Fly and at Your Fingertips
 ### Challenge
@@ -69,7 +63,10 @@ npm run
 ![image](https://github.com/user-attachments/assets/ba37c220-86f1-483a-9c6a-53fa4f9efa15)
 ![image](https://github.com/user-attachments/assets/ec282940-70c2-49a6-ba2f-f7c76f930520)
 
+### CarbonAdventure
+CarbonAdventure: An exhilarating 2D platformer game focused on the importance of minimizing your carbon footprint while traveling. Embark on a thrilling adventure through colorful landscapes, challenging obstacles, and interactive elements while learning about sustainability and environmental awareness. (Video is sped up for demo purposes. I would strongly recommend muting!)
 
+https://github.com/user-attachments/assets/147a898b-5f46-42fa-9fab-7a6f15904c29
 
 
 
